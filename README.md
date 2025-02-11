@@ -11,7 +11,7 @@ This data analysis was done in partnership with the head of operations to delive
 
 From 2019 to 2022 the average yearly sale revenue was $7M, the average total orders per year was 27K and the average AOV was $254. 2020 was the strongest year for both total sales (>$10M) and average value of orders($300). From 2020-2022 the overall trend has been a decline in all these metrics, but with average values still higher or equal (AOV =) than those registered in 2019. 
 
-From 2019 - 2022 while the overall sales trend is upwards, there's noticeable fluctuations in sales. 2020 saw the highest growth, with total sales revenue surging 163% year-over-year, driven by a 31% increase in average order value (AOV) and a 101% jump in order volume. Despite a 15% AOV decline in 2021, order volume still reached a record high (up 6%), suggesting a shift towards lower-priced items.
+There's noticeable fluctuations in the overall sales trend from 2019 to 2022. 2020 was the strongest year, it registered the highest growth, with total sales revenue surging 163% year-over-year, driven by a 31% increase in average order value (AOV) and a 101% jump in order volume. Despite a 15% AOV decline in 2021, order volume still reached a record high (up 6%), suggesting a shift towards lower-priced items.  From 2020-2022 the overall trend has been a decline in all these metrics, but with average values still higher or equal (AOV =) than those registered in 2019
 
 # Deep-Dive Insights
 
