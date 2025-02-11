@@ -13,7 +13,9 @@ From 2019 - 2022 while the overall sales trend is upwards, there's noticeable fl
 
 # Deep-Dive Insights
 
-These main business questions led to a detailed analysis, revealing important insights: 
+These main business questions led to a detailed analysis in five main areas: sales trends, growth rates, product trends, loyalty program, and refund rates. 
+
+Key Business questions:
 * What were the monthly and yearly number of sales throughout 2019 and 2022? What about AOV and total sales in dollars? How did this differ by product and geography?
 * Which months and products performed the best / worst? Is there seasonality?
 * Should we keep using the loyalty program?
