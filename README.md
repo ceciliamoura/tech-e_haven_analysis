@@ -13,11 +13,10 @@ From 2019 to 2022 the average yearly sale revenue was $7M, the average total ord
 
 There's noticeable fluctuations in the overall sales trend from 2019 to 2022. 2020 was the strongest year, it registered the highest growth, with total sales revenue surging 163% year-over-year, driven by a 31% increase in average order value (AOV) and a 101% jump in order volume. Despite a 15% AOV decline in 2021, order volume still reached a record high (up 6%), suggesting a shift towards lower-priced items.  From 2020-2022 the overall trend has been a decline in all these metrics, but with average values still higher or equal (AOV =) than those registered in 2019
 
-# Deep-Dive Insights
+# Key Business Questions
 
-These main business questions led to a detailed analysis in five main areas: sales trends, growth rates, product trends, loyalty program, and refund rates. 
+These main business questions led to a detailed analysis in sales trends, growth rates, product trends, loyalty program, and refund rates. 
 
-Key Business questions:
 * What were the monthly and yearly number of sales throughout 2019 and 2022? What about AOV and total sales in dollars? How did this differ by product and geography?
 * Which months and products performed the best / worst? Is there seasonality?
 * Should we keep using the loyalty program?
@@ -27,7 +26,8 @@ Key Business questions:
     * What are the refund rates for each of the Apple products? How does this differ by year?
 * How was the growth rate distributed across regions? (i.e. was a dramatic spike observed across all regions, or only some)?
 	  * Are the regions with the highest spike the same regions responsible for the highest sales dollars?
-
+  
+# Deep-Dive Insights
 ## Sales Trends
 
 From 2019 to 2022 the average yearly sale revenue was $7M, the average total orders per year was 27K and the AOV was $254. 2020 was the strongest year for both total sales (>$10M)  and average value of orders($300). From 2020-2022 the overall trend has been a decline in all these metrics, but with average values still higher or equal (AOV =) than those registered in 2019.
