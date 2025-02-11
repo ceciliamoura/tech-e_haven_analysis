@@ -6,7 +6,7 @@ This data analysis was done in partnership with the head of operations to delive
  
 # Executive Summary
 
-From 2019 - 2022 while the overall sales trend is upwards, there's noticeable fluctuations in sales. 2020 saw the highest growth, with total sales revenue surging 163% year-over-year, driven by a 31% increase in average order value (AOV) and a 101% jump in order volume. Despite a 15% AOV decline in 2021, order volume still reached a record high (up 6%), suggesting a shift towards lower-priced items. From 2019 to 2022 the average yearly sale revenue was $7M, the average total orders per year was 27K and the AOV was $254. 2020 was the strongest year for both total sales (>$10M) and average value of orders($300). From 2020-2022 the overall trend has been a decline in all these metrics, but with average values still higher or equal (AOV =) than those registered in 2019. 
+From 2019 - 2022 while the overall sales trend is upwards, there's noticeable fluctuations in sales. 2020 saw the highest growth, with total sales revenue surging 163% year-over-year, driven by a 31% increase in average order value (AOV) and a 101% jump in order volume. Despite a 15% AOV decline in 2021, order volume still reached a record high (up 6%), suggesting a shift towards lower-priced items. From 2019 to 2022 the average yearly sale revenue was $7M, the average total orders per year was 27K and the average AOV was $254. 2020 was the strongest year for both total sales (>$10M) and average value of orders($300). From 2020-2022 the overall trend has been a decline in all these metrics, but with average values still higher or equal (AOV =) than those registered in 2019. 
 
 ## ERD
 <img width="697" alt="Screenshot 2025-02-03 at 12 36 20 PM" src="https://github.com/user-attachments/assets/4e7cdfbe-6919-4c3e-838e-0b31abb9b6bb" />
@@ -26,20 +26,30 @@ These main business questions led to a detailed analysis, revealing important in
 ## Sales Trends
 From 2019 to 2022 the average yearly sale revenue was $7M, the average total orders per year was 27K and the AOV was $254. 2020 was the strongest year for both total sales (>$10M)  and average value of orders($300). From 2020-2022 the overall trend has been a decline in all these metrics, but with average values still higher or equal (AOV =) than those registered in 2019.
 
-
-## Growth Rates
-December 2020 was the top-performing month, generating nearly $1.2 million in sales, and March 2020 saw the highest growth in sales (50% MoM, 162% YoY) and order count (46%). Since then, however, key metrics have declined. Average monthly sales have fallen, reaching a low point in October 2022. Order count, averaging approximately 2,200 per month, ranged from over 4,000 (December 2020) to just 825 (October 2022). AOV, while averaging $253, fluctuated between $216 (October 2022) and $322 (October 2020), with peak growth of 18% in September 2022. The most concerning period was September-October 2022, marked by significant contractions in total sales (-55%), AOV (-16%), and order count (-47%). Although November and December 2022 suggest a potential recovery, further analysis is warranted to understand the drivers of these declines and ensure a return to growth.
-
-This shift likely reflects the impact of the COVID-19 pandemic, which initially drove demand for remote work solutions and digital entertainment (as seen in the March 2020 peak of 50% sales growth and 46% order growth, with sales concentrated in products like the 27-inch 4K gaming monitor, MacBook Air laptop, Apple AirPods headphones, and ThinkPad laptop). Although regional sales contributions remained consistent (NA ~50%, EMEA ~30%), the March 2020 growth was primarily driven by EMEA and APAC
-
-## Seasonality
 A clear seasonal pattern emerges, with sales consistently peaking at the end of the year and reaching their nadir in February across all regions. Despite this seasonality, recent trends raise concerns.
 
+![Screenshot 2025-02-11 at 12 06 44 PM](https://github.com/user-attachments/assets/a4536d00-3119-41ef-80f8-ea9b026939e3)
+![Screenshot 2025-02-11 at 12 09 37 PM](https://github.com/user-attachments/assets/45a9b2b0-fa7d-4263-9aaa-7e4eb7e4ead1)
+
+
+## Growth Rates
+December 2020 was the top-performing month, generating nearly $1.2 million in sales, and March 2020 saw the highest growth in sales (50% MoM, 162% YoY) and order count (46%). Since then, however, key metrics have declined. Average monthly sales have fallen, reaching a low point in October 2022. Order count, averaging approximately 2,200 per month, ranged from over 4,000 (December 2020) to just 825 (October 2022). AOV, while averaging $253, fluctuated between $216 (October 2022) and $322 (October 2020), with peak growth of 18% in September 2022. The most concerning period was September-October 2022, marked by significant contractions in total sales (-55%), AOV (-16%), and order count (-47%). 
+
+Although November and December 2022 suggest a potential recovery, further analysis is warranted to understand the drivers of these declines and ensure a return to growth.
+
+![Screenshot 2025-02-11 at 12 39 41 PM](https://github.com/user-attachments/assets/7f349521-a2c2-45b8-9aa3-dfabc9234907)
+
+
 ## Product Trends
-Across all regions and the entire four-year period, four products dominated sales: the 27-inch 4K gaming monitor, Apple AirPods Headphones, MacBook Air Laptop, and ThinkPad Laptop. These products collectively represented approximately 95% of total sales. Regional contributions to sales remained stable, with North America (NA) consistently generating around 50% and EMEA approximately 30%
+Across all regions and the entire four-year period, four products dominated sales: the 27-inch 4K gaming monitor, Apple AirPods Headphones, MacBook Air Laptop, and ThinkPad Laptop. These products collectively represented approximately 95% of total sales. Regional contributions to sales remained stable, with North America (NA) consistently generating around 50% and EMEA approximately 30% .
+
+These findings likely reflect the impact of the COVID-19 pandemic, which initially drove demand for remote work solutions and digital entertainment (as seen in the March 2020 peak of 50% sales growth and 46% order growth, with sales concentrated in products like the 27-inch 4K gaming monitor, MacBook Air laptop, Apple AirPods headphones, and ThinkPad laptop). Although regional sales contributions remained consistent (NA ~50%, EMEA ~30%), the March 2020 growth was primarily driven by EMEA and APAC
 
 ## Loyalty Program
-Body text
+Loyal customer engagement, while increasing in order count contribution from 2019 to mid-2022 (reaching 55%), declined by the end of 2022, suggesting a return to non-loyal customer dominance. A similar fluctuation occurred with average order value (AOV). Non-loyal customers had a higher AOV in 2020, but loyal customers surpassed them by 14% in 2022, only to see non-loyal customer AOV rise again recently. These shifts, particularly since August 2022, question the loyalty program's effectiveness. A three-month observation period is recommended to validate these trends and determine necessary program adjustments
+
+![Screenshot 2025-02-11 at 11 45 26 AM](https://github.com/user-attachments/assets/83cdcffd-b662-4ede-9745-6d19a5eefc73)
+![Screenshot 2025-02-11 at 11 59 52 AM](https://github.com/user-attachments/assets/a440c5b1-0497-4c77-a322-f3181aac8ae6)
 
 ## Refund Rates
 Body text
