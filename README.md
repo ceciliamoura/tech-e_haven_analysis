@@ -49,7 +49,8 @@ Across all regions and the entire four-year period, four products dominated sale
 
 These findings likely reflect the impact of the COVID-19 pandemic, which initially drove demand for remote work solutions and digital entertainment (as seen in the March 2020 peak of 50% sales growth and 46% order growth, with sales concentrated in products like the 27-inch 4K gaming monitor, MacBook Air laptop, Apple AirPods headphones, and ThinkPad laptop). 
 
-![Products_sales_participation](https://github.com/user-attachments/assets/8c7d24bd-9196-4bb9-b8db-f7988d339aac)
+![product_participationXtime](https://github.com/user-attachments/assets/1f17c101-d770-4bab-b662-4ab577005ca7)
+
 
 
 ## Loyalty Program
