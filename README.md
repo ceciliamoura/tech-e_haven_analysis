@@ -80,7 +80,7 @@ These main business questions led to a detailed analysis in sales trends, growth
 * 2020: Non-loyal customers had a higher AOV.
 * 2022: Loyal customers' AOV surpassed non-loyal customers' by 14%.
 
-![Screenshot 2025-02-24 at 4 11 31 PM](https://github.com/user-attachments/assets/78842fbf-da60-427a-bcd3-3ef701195192)
+![Screenshot 2025-02-24 at 4 22 34 PM](https://github.com/user-attachments/assets/8c4451c4-62ec-4f3b-8828-5b691e8ea9d1)
 
 ![Screenshot 2025-02-24 at 4 14 49 PM](https://github.com/user-attachments/assets/bd88a249-28ac-407c-af0b-8d4700f26d36)  
 
