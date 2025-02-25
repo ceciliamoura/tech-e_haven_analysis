@@ -43,8 +43,6 @@ These main business questions led to a detailed analysis in sales trends, growth
     	* Top-performing month: December. Nearly $1.2 million in sales
 * 2021: Shift in Purchasing Behavior. Despite a 15% decline in AOV, order volume reached a record high (up 6%), indicating a shift towards lower-priced items.
 * 2021-2022: Declining Trend. A declining trend in sales revenue, AOV, and order volume occurred from 2020 to 2022
-* Average monthly sales have decreased, reaching a low in October 2022
-* A clear seasonal pattern emerges, with sales consistently peaking at the end of the year and reaching their nadir in February across all regions. Despite this seasonality, recent trends raise concerns
 
 ![Screenshot 2025-02-25 at 11 04 58 AM](https://github.com/user-attachments/assets/071e187c-d2a6-47e6-8672-3ebf9ccedff4)
 
@@ -54,6 +52,7 @@ These main business questions led to a detailed analysis in sales trends, growth
 * Order count, averaging approximately 2,200 per month, ranged from over 4,000 (December 2020) to just 825 (October 2022)
 * AOV, while averaging $253, fluctuated between $216 (October 2022) and $322 (October 2020), with peak growth of 18% in September 2022
 * The most concerning period was September-October 2022, marked by significant contractions in total sales (-55%), AOV (-16%), and order count (-47%)
+* A clear seasonal pattern emerges, with sales consistently peaking at the end of the year and reaching their nadir in February across all regions. 
   
 ![Screenshot 2025-02-25 at 11 05 34 AM](https://github.com/user-attachments/assets/bc863958-6f7c-4dd0-bd6e-0321c836d092)
 
