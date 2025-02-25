@@ -33,14 +33,9 @@ These main business questions led to a detailed analysis in sales trends, growth
 
  
 # Deep-Dive Insights
-## Sales Trends
+## Yearly Sales Trends
 
-* 2020: Peak Performance. 2020 was the strongest year, with the highest growth
-	* 163% year-over-year surge in total sales revenue
-	* Drivers:
-		* 31% increase in Average Order Value (AOV).
-		* 101% increase in order volume
-    	* Top-performing month: December. Nearly $1.2 million in sales
+* 2020: Peak Performance
 * 2021: Shift in Purchasing Behavior. Despite a 15% decline in AOV, order volume reached a record high (up 6%), indicating a shift towards lower-priced items.
 * 2021-2022: Declining Trend. A declining trend in sales revenue, AOV, and order volume occurred from 2020 to 2022
 
@@ -49,6 +44,7 @@ These main business questions led to a detailed analysis in sales trends, growth
 ## Monthly analysis and Growth Rates
 
 * March 2020 saw the highest growth in sales (50% MoM, 162% YoY) and order count (46%). Since then, however, key metrics have declined. Average monthly sales have fallen, reaching a low point in October 2022
+* Top-performing month: December. Nearly $1.2 million in sales
 * Order count, averaging approximately 2,200 per month, ranged from over 4,000 (December 2020) to just 825 (October 2022)
 * AOV, while averaging $253, fluctuated between $216 (October 2022) and $322 (October 2020), with peak growth of 18% in September 2022
 * The most concerning period was September-October 2022, marked by significant contractions in total sales (-55%), AOV (-16%), and order count (-47%)
