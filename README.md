@@ -18,7 +18,7 @@ These main business questions led to a detailed analysis in sales trends, growth
     * How does this trend differ for recent months vs. previous months?
 * What are the refund rates for different products?
     * How does it compare between loyal and non-loyal customers?
-* How was the growth rate distributed across regions? (i.e. was a dramatic spike observed across all regions, or only some)?
+* How are the sales across regions? (i.e. was a dramatic spike observed across all regions, or only some)?
 	  * Are the regions with the highest spike the same regions responsible for the highest sales dollars?
   
 # Executive Summary
