@@ -26,10 +26,7 @@ These main business questions led to a detailed analysis in sales trends, growth
 * From 2019 to 2022 the average yearly sale revenue was $7M, the average total orders per year was 27K and the average AOV was $254. 2020 was the strongest year for both total sales (>$10M) and average value of orders($300). 
 
 * From 2020-2022 the overall trend has been a decline in all these metrics, but with average values still higher or equal (AOV =) than those registered in 2019. 
-
-![Screenshot 2025-02-24 at 2 58 57 PM](https://github.com/user-attachments/assets/8bfd1707-65c3-4c27-9bcf-665034f871d3)
-
-  
+ 
 # Deep-Dive Insights
 ## Sales Trends
 
@@ -44,7 +41,7 @@ These main business questions led to a detailed analysis in sales trends, growth
 * Average monthly sales have decreased, reaching a low in October 2022.
 * A clear seasonal pattern emerges, with sales consistently peaking at the end of the year and reaching their nadir in February across all regions. Despite this seasonality, recent trends raise concerns.
 
-![Screenshot 2025-02-24 at 3 20 17 PM](https://github.com/user-attachments/assets/86f7d712-e6f4-4ec7-9f37-56cb185364d7)
+![Screenshot 2025-02-25 at 11 04 58 AM](https://github.com/user-attachments/assets/071e187c-d2a6-47e6-8672-3ebf9ccedff4)
 
 ## Monthly analysis and Growth Rates
 
@@ -52,12 +49,12 @@ These main business questions led to a detailed analysis in sales trends, growth
 * Order count, averaging approximately 2,200 per month, ranged from over 4,000 (December 2020) to just 825 (October 2022).
 * AOV, while averaging $253, fluctuated between $216 (October 2022) and $322 (October 2020), with peak growth of 18% in September 2022.
 * The most concerning period was September-October 2022, marked by significant contractions in total sales (-55%), AOV (-16%), and order count (-47%).
-
-![Screenshot 2025-02-24 at 3 43 24 PM](https://github.com/user-attachments/assets/1a48ede2-abf8-4b5d-9cbf-9914d62bf4d7)
+  
+![Screenshot 2025-02-25 at 11 05 34 AM](https://github.com/user-attachments/assets/bc863958-6f7c-4dd0-bd6e-0321c836d092)
 
 * Regional contributions to sales remained stable, with North America (NA) consistently generating around 50% and EMEA approximately 30% . The March 2020 growth was primarily driven by EMEA and APAC
   
-![Screenshot 2025-02-24 at 3 48 06 PM](https://github.com/user-attachments/assets/4c1b6bbe-9df9-4209-9b9c-a724838572dd)
+![Screenshot 2025-02-25 at 11 06 43 AM](https://github.com/user-attachments/assets/8cc6a59a-658e-4614-b0d4-da9376885dcb)
 
 * Although November and December 2022 suggest a potential recovery, further analysis is warranted to understand the drivers of these declines and ensure a return to growth.
 
@@ -67,7 +64,15 @@ These main business questions led to a detailed analysis in sales trends, growth
 
 * Impact of the COVID-19 pandemic: high demand for remote work solutions and digital entertainment (as seen in the March 2020 peak of 50% sales growth and 46% order growth, with sales concentrated in products like the 27-inch 4K gaming monitor, MacBook Air laptop, Apple AirPods headphones, and ThinkPad laptop). 
 
-![Screenshot 2025-02-24 at 3 58 37 PM](https://github.com/user-attachments/assets/9e0268f8-8017-4519-b8fb-74704fac85ef)
+![Screenshot 2025-02-25 at 11 18 09 AM](https://github.com/user-attachments/assets/9de9d17f-2bc1-4024-ac31-be9f5c2928d7)
+
+![Screenshot 2025-02-25 at 11 08 04 AM](https://github.com/user-attachments/assets/8289280b-e16c-408a-a3c8-ed147afe2ab2)
+
+ * The Samsung Webcam has guaranteed a fair share of the orders, reaching 11% of participation 3 years after its introduction
+ * Samsung Charging Cable Pack is the 3rd most ordered item but accounts for only 1.5% of total Revenue
+ * While laptops constitute only about 4% of total orders, they contribute roughly one-third of total revenue
+ * Apple iPhone and Bose Soundsport Headphones sales each represent less than 1% of total orders and revenue.
+ 	* Bose Headphones, in particular, saw an 82% year-over-year decline in order volume in 2022
 
 
 ## Loyalty Program
@@ -80,12 +85,17 @@ These main business questions led to a detailed analysis in sales trends, growth
 * 2020: Non-loyal customers had a higher AOV.
 * 2022: Loyal customers' AOV surpassed non-loyal customers' by 14%.
 
-![Screenshot 2025-02-24 at 4 26 32 PM](https://github.com/user-attachments/assets/82910e19-02ed-4728-8159-bcf67e11b66c)
+![Screenshot 2025-02-25 at 11 08 45 AM](https://github.com/user-attachments/assets/0941135d-7503-4a9b-aa20-5c72a30746ad)
 
-![Screenshot 2025-02-24 at 4 14 49 PM](https://github.com/user-attachments/assets/bd88a249-28ac-407c-af0b-8d4700f26d36)  
+![Screenshot 2025-02-25 at 11 23 52 AM](https://github.com/user-attachments/assets/d9d1d602-e427-4650-8697-463c99f56928)
 
-![Screenshot 2025-02-24 at 4 09 14 PM](https://github.com/user-attachments/assets/29cbda41-19c5-4f82-999a-5c3ce78e6b86)
+![Screenshot 2025-02-25 at 11 09 38 AM](https://github.com/user-attachments/assets/3498d421-f017-4b35-87e1-1f61ec6beee2)
+
 * These shifts, particularly since August 2022, question the loyalty program's effectiveness. A three-month observation period is recommended to validate these trends and determine necessary program adjustments
+
   
 ## Refund Rates
+
 Body text
+
+![Screenshot 2025-02-25 at 11 01 58 AM](https://github.com/user-attachments/assets/8eb72081-c911-41d8-bb1d-8d9ae02f712d)
