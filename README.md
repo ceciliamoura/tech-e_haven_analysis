@@ -19,7 +19,7 @@ These main business questions led to a detailed analysis in sales trends, growth
 * What are the refund rates for different products?
     * How does it compare between loyal and non-loyal customers?
 * How are the sales across regions? (i.e. was a dramatic spike observed across all regions, or only some)?
-	  * Are the regions with the highest spike the same regions responsible for the highest sales dollars?
+    * Are the regions with the highest spike the same regions responsible for the highest sales dollars?
   
 # Executive Summary
 
