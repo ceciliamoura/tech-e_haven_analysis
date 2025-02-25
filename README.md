@@ -24,8 +24,13 @@ These main business questions led to a detailed analysis in sales trends, growth
 # Executive Summary
 
 * From 2019 to 2022 the average yearly sale revenue was $7M, the average total orders per year was 27K and the average AOV was $254. 2020 was the strongest year for both total sales (>$10M) and average value of orders($300) 
+* 2020 saw peak performance with 163% YoY revenue growth, driven by a 31% AOV increase and 101% order volume surge.  However, a declining trend followed.
+* Regional contributions to sales remained stable, with North America (NA) consistently generating around 50% and EMEA approximately 30%
+* Four products (27-inch 4K monitor, AirPods, MacBook Air, ThinkPad) generated 95% of revenue.
+* Refund rates, though declining, remain high, especially for laptops (ThinkPad 9%, MacBook Air 7% in 2021) and loyal customers.
+* The loyalty program's effectiveness is questionable, with fluctuating engagement and AOV.
+* Recommendations include investigating declining sales, optimizing the product portfolio, re-evaluating the loyalty program, and addressing high refund rates. Recent data suggests a potential recovery requiring further analysis.
 
-* From 2020-2022 the overall trend has been a decline in all these metrics, but with average values still higher or equal (AOV =) than those registered in 2019
  
 # Deep-Dive Insights
 ## Sales Trends
@@ -106,6 +111,24 @@ These main business questions led to a detailed analysis in sales trends, growth
 
 ## Recommendations
 
+### Optimize product portfolio: 
+* Focus on 27-inch 4K monitor, AirPods, MacBook Air, ThinkPad and Samsung Charging Cable Pack, which constitute 95% of revenue and number of orders
+* Introducing similar products within the same class could strengthen E's competitive position, leading to improved sales and greater market penetration
+* Evaluate the continued viability of low-performing products (Apple iPhone, Bose Soundsport Headphones) given their <1% contribution to orders and revenue. Investigate the high order volume for the Samsung Webcam (11% of orders)
+
+### Monitor seasonality: 
+* Recognize the consistent end-of-year sales peak and the February sales nadir. Plan inventory, marketing campaigns, and staffing accordingly.
+
+### Address high refund rates: 
+* Investigate the high refund rates for ThinkPad (9%) and MacBook Air (7%) laptops (2021), and the higher refund rate among loyal customers.
+ 	* Implement quality control measures, improve product descriptions, or enhance customer support. 
+* Analyze the specific issues faced by loyal customers that might be driving higher refunds. 
+* Investigate the Apple iPhone's refund rate, even though its sales volume is low, as it still represents a potential issue.
+
+
+### Analyze regional performance: 
+* While regional contributions (NA ~50%, EMEA ~30%) have been relatively stable, I suggest a group talk between sales, marketing, and operations teams to gather insights into any activities or events that might have contributed to the drivers behind the March 2020 growth in EMEA and APAC. 
+	* Explore opportunities to replicate this success. 
 
 
 
