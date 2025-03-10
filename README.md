@@ -1,8 +1,8 @@
-# elist_analysis
+# Tech-E_Haven_analysis
 Sales trends analysis for e-commerce company.
 
-Founded in 2018, Elist is an e-commerce company that sells popular electronics products and has since expanded to a global customer base. Like most e-commerce companies, Elist sells products through their online site as well as through their mobile app. They use a variety of marketing channels to reach customers, including Email campaigns, SEO, and affiliate links. Over the last few years, their more popular products have been products from Apple, Samsung, and ThinkPad. 
-This data analysis was done in partnership with the head of operations to deliver insights to teams across the company, including finance, sales, product, and marketing. The focus was to help these stakeholders understand Elist’s performance so they can improve their day-to-day processes and help the company deliver top-notch products to customers around the world.
+Founded in 2018, Tech-E Haven is an e-commerce company that sells popular electronics products and has since expanded to a global customer base. Like most e-commerce companies, Tech-E Haven sells products through their online site as well as through their mobile app. Over the last few years, their more popular products have been products from Apple, Samsung, and ThinkPad. 
+This data analysis was done in partnership with the head of operations to deliver insights to teams across the company, including finance, sales, product, and marketing. The focus was to help these stakeholders understand Tech-E Haven’s performance so they can improve their day-to-day processes and help the company deliver top-notch products to customers around the world.
 
 ## ERD
 <img width="697" alt="Screenshot 2025-02-03 at 12 36 20 PM" src="https://github.com/user-attachments/assets/4e7cdfbe-6919-4c3e-838e-0b31abb9b6bb" />
