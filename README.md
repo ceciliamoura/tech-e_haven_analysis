@@ -4,9 +4,6 @@ Sales trends analysis for e-commerce company.
 Founded in 2018, Tech-E Haven is an e-commerce company that sells popular electronics products and has since expanded to a global customer base. Like most e-commerce companies, Tech-E Haven sells products through their online site as well as through their mobile app. Over the last few years, their more popular products have been products from Apple, Samsung, and ThinkPad. 
 This data analysis was done in partnership with the head of operations to deliver insights to teams across the company, including finance, sales, product, and marketing. The focus was to help these stakeholders understand Tech-E Haven’s performance so they can improve their day-to-day processes and help the company deliver top-notch products to customers around the world.
 
-## ERD
-<img width="697" alt="Screenshot 2025-02-03 at 12 36 20 PM" src="https://github.com/user-attachments/assets/4e7cdfbe-6919-4c3e-838e-0b31abb9b6bb" />
-
 # Key Business Questions
 
 These main business questions led to a detailed analysis in sales trends, growth rates, product trends, loyalty program, and refund rates. 
@@ -125,5 +122,7 @@ These main business questions led to a detailed analysis in sales trends, growth
 * While regional contributions (NA ~50%, EMEA ~30%) have been relatively stable, I suggest a group talk between sales, marketing, and operations teams to gather insights into any activities or events that might have contributed to the drivers behind the March 2020 growth in EMEA and APAC. 
 	* Explore opportunities to replicate this success. 
 
+## ERD
+<img width="697" alt="Screenshot 2025-02-03 at 12 36 20 PM" src="https://github.com/user-attachments/assets/4e7cdfbe-6919-4c3e-838e-0b31abb9b6bb" />
 
 
